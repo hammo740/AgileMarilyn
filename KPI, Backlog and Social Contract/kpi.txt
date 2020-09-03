@@ -1,0 +1,9 @@
+Our three KPI are the following:
+
+Productivity: How many hours each member puts in the project each sprint.
+Stress levels: How stressful each sprint has been for the team members in order to redistribute assignments.
+Team satisfaction: How satisfied is each member with each sprint.
+
+
+Additional KPI:
+Motivational levels: How motivated each member feel after each sprint.
