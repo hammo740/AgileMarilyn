@@ -1,0 +1,21 @@
+Product backlog (initial):
+Sprint 1 (current): 
+Finish delegation of roles
+Define rules within the team
+Decide initial deadlines for each sprint
+
+Sprint 2:
+Choose/delegate stories
+Program the application
+Daily/bi-daily meetings where we raise questions or issues
+Code review
+
+Sprint 3:
+Program the application
+Daily/bi-daily meetings where we raise questions or issues
+Code review
+
+Sprint 4:
+Tie together everything
+One last code review
+Release of product
