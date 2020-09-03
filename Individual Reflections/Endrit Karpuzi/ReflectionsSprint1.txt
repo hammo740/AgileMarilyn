@@ -17,10 +17,14 @@ While this project only spans over 10 weeks and doesn't leave much room for deve
 
 While not the focus of the course, I still feel this project will give me a lot of room to improve in technologies such as github, since while I've used it, I've never used it as an integral part of my previous projects. 
 
-I feel the best approach towards learning as much as possible and delivering a stable product is by having regular meetings with the team members where we with full honesty tell each other how things are going individually, that we immediately tell each outher if an assignment we've been handed out is "too much" and whether we feel comfortable in our role, so that we can fix any types of problems as soon as possible and not relying on the member doings thing individually without input.
+I feel the best approach towards learning as much as possible and delivering a stable product is by having regular meetings with the team members where we with full honesty tell each other how things are going individually, 
+that we immediately tell each outher if an assignment we've been handed out is "too much" and whether we feel comfortable in our role, 
+so that we can fix any types of problems as soon as possible and not relying on the member doings thing individually without input.
 
-The part I feel the most excited about learning is being the Scrum master. It will be rather interesting to see how I fare in this role and whether I'll be able to push the project ahead and be able to help the team members the way I want to. I'm quite hopeful it will work just fine and give me experience that will be useful in the future.
-One problem I've already encountered is whether we should use an own Scrum board or use one online. My initial thoughts are that we could probably organize it simple enough in a Google document but this is also subject to change.
+The part I feel the most excited about learning is being the Scrum master. It will be rather interesting to see how I fare in this role and whether I'll be able to push the project ahead and be able to help the team members the way I want to. 
+I'm quite hopeful it will work just fine and give me experience that will be useful in the future.
+One problem I've already encountered is whether we should use an own Scrum board or use one online. 
+My initial thoughts are that we could probably organize it simple enough in a Google document but this is also subject to change.
 
 My time spent this week: Approximately 10 hours. 
 
