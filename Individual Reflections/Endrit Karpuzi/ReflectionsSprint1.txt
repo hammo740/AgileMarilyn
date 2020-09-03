@@ -1,4 +1,4 @@
-My personal reflections for the first week/sprint.
+#My personal reflections for the first week/sprint.
 
 About our project: 
 We managed to make up a team of 6 people which all seem to be engaged and interested in the course. 
