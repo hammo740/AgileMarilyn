@@ -1,21 +1,32 @@
-Product backlog (initial):
-Sprint 1 (current): 
+Product backlog:
+Sprint 1 (current) w36-37: 
 Finish delegation of roles
 Define rules within the team
 Decide initial deadlines for each sprint
-
-Sprint 2:
 Choose/delegate stories
+Reflections (team and individual)
+
+Sprint 2 w38-39: 
 Program the application
 Daily/bi-daily meetings where we raise questions or issues
 Code review
+Reflections (team and individual)
 
-Sprint 3:
+Sprint 3 w40-41:
 Program the application
 Daily/bi-daily meetings where we raise questions or issues
 Code review
+Reflections (team and individual)
 
-Sprint 4:
+Sprint 4 w42:
+Program the application
+Daily/bi-daily meetings where we raise questions or issues
+Tie together everything
+Reflections (team and individual)
+
+Sprint 5 (final) w43-w44:
 Tie together everything
 One last code review
 Release of product
+Reflections (individual)
+Final report
