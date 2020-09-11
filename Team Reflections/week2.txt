@@ -17,7 +17,6 @@ Regarding the structure of the project and what we want to achieve learning-wise
 Our KPIs were defined as following:
 Productivity:
 One challenge regarding productivity is that it sometimes has been difficult to assemble the team because the schedules (both private and school/work-wise) have been different. One of the ways to tackle this challenge is to have a set schedule which we have begun to define.
-
 If we were to measure the productivity this sprint from 1 to 5 we would put it at a 3. This is natural for us since it is the beginning of the project and there have been a lot of initial problems to solve and especially working remotely has posed a bit of a challenge.
 
 Stress levels:
