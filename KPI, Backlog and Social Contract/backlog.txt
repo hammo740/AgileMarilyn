@@ -11,6 +11,10 @@ Languages
 
 Environmental tips
 - For transport
+- For outdoors
+- For household
+- For worklife
+- For social life
 
 Achievements
 - Add list of achievements
@@ -20,7 +24,7 @@ Achievements
 Tips in focus
 - Function for notification
 - Ability to choose frequency of notification
-- Ability to remove notification
+- Ability to remove notifications
 
 Viewing of tips
 - Slide-cards function
