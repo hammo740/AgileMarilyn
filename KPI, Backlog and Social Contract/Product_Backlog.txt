@@ -33,12 +33,13 @@ a) As a user I would like to choose between different categories
 	- Add the (category)menu interface
 b) As a user I want to have an enjoyable slide-cards system for viewing tips
 	Tasks: 
-	- Implement the slide-card system (horizontal)
+	- Implement the slide-card system
 	- Choose the design of the cards 
 	- Add the possibility to change language, while viewing a card
 c) As a user I want to have verified and helpful tips
 	Task:
 	- Add verified tips for each category
+	- Add translations of the tips to all the avaible languages 
 
 
 3) Enable adding and reporting tips feature
