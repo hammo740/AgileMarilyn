@@ -36,6 +36,9 @@ b) As a user I want to have an enjoyable slide-cards system for viewing tips
 	- Implement the slide-card system (horizontal)
 	- Choose the design of the cards 
 	- Add the possibility to change language, while viewing a card
+c) As a user I want to have verified and helpful tips
+	Task:
+	- Add verified tips for each category
 
 
 3) Enable adding and reporting tips feature
