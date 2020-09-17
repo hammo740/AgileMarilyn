@@ -29,7 +29,7 @@ User stories:
 
 a) As a user I would like to choose between different categories 
 	Tasks:
-	- Add the categories
+	- Add the categories (transport, outdoor, household, worklife, social life)
 	- Add the (category)menu interface
 b) As a user I want to have an enjoyable slide-cards system for viewing tips
 	Tasks: 
