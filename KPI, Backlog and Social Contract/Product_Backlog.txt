@@ -1,6 +1,7 @@
 Product backlog
 
 Epics:
+(each epic corresponds to a color label on our scrum board)
 
 1) Start screen
 
