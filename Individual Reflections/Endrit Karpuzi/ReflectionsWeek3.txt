@@ -14,8 +14,8 @@ It will probably pose a bit of a challenge developing in a completely new enviro
 Cezary has also taken the initivative to set up Trello and has transferred the stories and Scrum board to it which is very good. I have also connected Trello to
 GitKraken (the Git tool which I wrote about in my second reflection) so we've mostly organised our development areas quite good.
 
-Regarding the A, B, A->B loop, there's a thing I'll have to check with our supervisor since I'm not quite sure whether the "B"-part refers to where we want to be in this project
-or if it is where I think I should be at the same point in a future project, but for now I'll continue with the same principle as in earlier reflections.
+Regarding the A, B, A->B loop, there's a thing I'll have to check with our supervisor since I'm not quite sure whether the "B"-part refers to where we want to be in this
+projector if it is where I think I should be at the same point in a future project, but for now I'll continue with the same principle as in earlier reflections.
 
 So to tie everything according to the A, B, A->B loop I'd summarize it by:
 
@@ -24,20 +24,20 @@ The current situation is that all organizational issues and preliminary planning
 backlog (which was one of the remarks that weren't so good) and I now have a very clear idea of what we are doing.
 
 B:
-If I refer to B as where I want to be in the project by next reflection, I'd without doubt say that we have at least finished some of the coding stories since it would be too big of a risk
-to delay it further and being in a situation where only have a few weeks and a lot of stories left. So by this weekend or the start of next week I'd like for us to have started
-coding the actual application.
+If I refer to B as where I want to be in the project by next reflection, I'd without doubt say that we have at least finished some of the coding stories since it would be too
+big of a risk to delay it further and being in a situation where only have a few weeks and a lot of stories left. So by this weekend or the start of next week I'd like for 
+us to have started coding the actual application.
 
-If I refer to B as where I would like to be at this point in a similar project in the future I'd say perhaps a bit further than we are now. I'd like to have finished all the organizational parts
-a lot earlier, maybe as soon as the first week. Although it might have taken a bit longer than necessary I still find our current situation understandable since we are working in a completely
-new environment which takes a bit more preparing. Another thing as that we're quite a big group (which I guess is good preparation for the future) and it's a bit more difficult to organize six people compared
-to the usual school projects of 2-3 people
+If I refer to B as where I would like to be at this point in a similar project in the future I'd say perhaps a bit further than we are now. I'd like to have finished all the
+organizational parts a lot earlier, maybe as soon as the first week. Although it might have taken a bit longer than necessary I still find our current situation understandable
+since we are working in a completely new environment which takes a bit more preparing. Another thing as that we're quite a big group (which I guess is good preparation for the
+future) and it's a bit more difficult to organize six people compared to the usual school projects of 2-3 people
 
 A->B:
-The simplest way to achieve this gap-reduction is simply by more efficient planning. Perhaps choosing an environment one is familiar with is also a way reduce the gap, although we find that the knowledge we recieve
-is valueable enough to justify using a more difficult (in some sense) tool.
+The simplest way to achieve this gap-reduction is simply by more efficient planning. Perhaps choosing an environment one is familiar with is also a way reduce the gap, 
+although we find that the knowledge we recieve is valueable enough to justify using a more difficult (in some sense) tool.
 
-In conlusion, the thing I need to learn better (with a large margin) is to work in Android Studio. I'm sure, as our supervisor mentioned, it will pose a bit of a challenge for all members. The way we can
-make it easier is by sharing knowledge we acquire in the program. Perhaps documenting the progress we make is a good way to do this.
+In conlusion, the thing I need to learn better (with a large margin) is to work in Android Studio. I'm sure, as our supervisor mentioned, it will pose a bit of a challenge for
+all members. The way we can make it easier is by sharing knowledge we acquire in the program. Perhaps documenting the progress we make is a good way to do this.
 
 Endrit Karpuzi
