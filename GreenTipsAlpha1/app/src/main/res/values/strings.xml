@@ -7,4 +7,30 @@
     <string name="shqip">Shqip</string>
     <string name="english">English</string>
     <string name="francais">Français</string>
+    <string name="continueButton">Continue</string>
+    <string name="aboutButton">About</string>
+    <string name="help">Help</string>
+
+    <string name="aboutapp">
+        <b>Welcome to GreenTips!</b>\n
+        \nThis application was developed by 6 students at Chalmers Tekniska Högskola in Gothenburg, Sweden.\n
+        \nWith the tips and ideas we give to you here, we will help you to reduce you environmental impact and live a healthier life!\n
+        \nSimply choose the category you are interested in and we will supply many, simple ways for a greener life.
+        \nReceive notifications for reminders and strive for achievements by choosing to have a tip in focus!
+    </string>
+    <string name="helpcontact"><b>Contact a developer:</b>\n\n
+        <b>Alexis Tello:</b>\n
+        alexis@student.chalmers.se\n\n
+        <b>Cezary Januszek:</b>\n
+        januszek@student.chalmers.se\n\n
+        <b>Endrit Karpuzi:</b>\n
+        karpuzi@student.chalmers.se\n\n
+        <b>Firel Issa:</b>\n
+        firel@student.chalmers.se\n\n
+        <b>Mohammed Al-fatlawi:</b>\n
+        mohalf@student.chalmers.se\n\n
+        <b>Smedra Touma:</b>\n
+        smedra@student.chalmers.se
+    </string>
+
 </resources>

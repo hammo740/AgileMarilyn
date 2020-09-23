@@ -17,4 +17,12 @@ public class welcome extends AppCompatActivity {
     public void chooseLangScreen(View v){
         startActivity(new Intent(welcome.this, choose_lang.class));
     }
+
+    public void aboutScreen(View v){
+        startActivity(new Intent(welcome.this, about.class));
+    }
+
+    public void helpScreen(View v){
+        startActivity(new Intent(welcome.this, help.class));
+    }
 }

@@ -8,26 +8,26 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="419dp"
-        android:layout_height="734dp"
+        android:layout_width="395dp"
+        android:layout_height="785dp"
         android:background="@drawable/home1080x1920"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.875"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:layout_width="331dp"
-        android:layout_height="65dp"
+        android:layout_width="313dp"
+        android:layout_height="59dp"
         android:layout_marginStart="40dp"
-        android:layout_marginTop="248dp"
+        android:layout_marginTop="268dp"
+        android:alpha="0.8"
         android:background="@drawable/rounded_corners"
+        android:enabled="false"
         android:text="@string/chooseLang"
-        android:textColor="#FFF"
+        android:textColor="#000"
         android:textSize="25dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -36,10 +36,9 @@
         android:id="@+id/scrollViewLang"
         android:layout_width="208dp"
         android:layout_height="200dp"
-        android:layout_marginTop="340dp"
+        android:layout_marginTop="344dp"
         android:orientation="vertical"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
@@ -47,8 +46,8 @@
             android:id="@+id/scrollLayoutLang"
             android:layout_width="138dp"
             android:layout_height="100dp"
-            android:layout_marginTop="70dp"
             android:layout_gravity="center"
+            android:layout_marginTop="70dp"
             android:orientation="vertical">
 
             <Button
