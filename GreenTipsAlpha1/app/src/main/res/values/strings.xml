@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GreenTips</string>
+    <string name="chooseLang">Choose a language</string>
+    <string name="espanol">Español</string>
+    <string name="svenska">Svenska</string>
+    <string name="polsku">Polski</string>
+    <string name="shqip">Shqip</string>
+    <string name="english">English</string>
+    <string name="francais">Français</string>
+</resources>
