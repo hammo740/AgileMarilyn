@@ -1,0 +1,60 @@
+My personal reflections for week 4.
+
+About the project:
+During this week we have started programming the application. Since we weren’t sure which design to go with, all members got to make a “prototype” 
+of sorts and we would vote on the design we will go ahead with. I have uploaded mine in Github under AgileMarilyn/GreenTipsAlpha1. We have also delegated 
+stories and the development is now started.
+
+
+My reflections:
+I believe that we now have entered the most important/difficult part of the project - the actual development. As I mentioned in last 
+week's reflection, our goal that week was to familiarize ourselves with Android Studio and I personally feel I have done that very well. 
+I have also mentioned earlier that working in AS will pose a challenge since it’s a completely new tool for us, but as the days go by and I 
+gain experience, the easier it gets and I feel I am getting a good understanding of the working environment. This feeling seems to be 
+shared by all the team members.
+
+
+What do I want to learn or understand better?
+I am still eager to learn more about Android Studio. I have no doubts that this will be a working environment I will continue use in the future, 
+because since the learning ceiling is very high, the learning curve doesn’t seem to be too steep (i.e. it’s rather simple to gain knowledge). 
+As of now (A) I have gained a bit of basic knowledge and mostly learnt about UI/design and heading towards learning more about the environment (B) 
+the simplest way will simply be the way I have been doing it so far - by searching information about different things I want to do and by trial 
+and error (A->B)
+
+This question, but applying to the process rather than technologies, leans more towards the organizing of the team. One challenge I have felt that 
+has been a bit more common has been to get the team fully together at times (A). This has been touched upon in earlier reflection but I feel it’s a 
+part that can really be improved upon. This applies to me as well as the rest of the members, since schedules often conflict and things come up. 
+This might also be due to working remotely, since it would have been easier if we had a regular schedule where we were at campus. In the future, 
+we hope to have a lot more regular meetings where all members are present (B) and the simplest way to enforce this would simply be to take our schedule 
+a lot more serious (A -> B)
+
+
+How can I help someone else, or the entire team, to learn something new?
+This part of the reflection is one thing that has been going quite good for us. Whenever we are in doubt of something (A) we simply ask another member 
+for help, and different members have different types of experience and ways to acquire knowledge so that’s also a positive part. There are probably a 
+few ways to improve this as well (B) but as of now I haven’t had any issues with this part. We will simply continue to ask when we need help and share 
+knowledge we gain while learning a new technology etc (A -> B).
+
+
+What is my contribution towards the team’s use of Scrum? 
+As Scrum master I have mostly tried to give room to other members to share the thoughts. It would have been rather simple to go forward with how I 
+(or those who want to decide) think we should proceed with the project, but I’ve tried to let everybody come up with their thoughts and tried to 
+delegate “the floor” equally in meetings. I feel like the best working environment comes when everybody is allowed to share their thoughts and feel 
+comfortable in saying no and critiquing ideas as well 
+
+What is my contribution towards the team’s deliveries?
+For this week, we all made a prototype of the initial UI, so in a sense the deliverables have been equally distributed, as we pretty much made six 
+instances of a Welcome screen, About-page and Contact-page. This might be seen as a bit ineffective, but we had troubles deciding on which design to 
+move forward with and this approach gave us both inspiration, and we also gained valuable knowledge at the same time. I have implemented a scrolling 
+mechanic which we have decided to continue to use as well.
+
+
+About next week:
+It feels that we’ve now headed into the most challenging (and maybe most fun?) part of the project - developing! These coming sprints will sort of be 
+structured the same way going forward. We will continue to code, choose stories, have meetings, discuss and finish the sprints with code reviews. I look 
+forward toward these sprints as it will be interesting to see how our ideas are put to something concrete, and see how the app changes week to week as we 
+become both better at developing in Android Studio, and hopefully better in working as a team with the agile method. We have some issues we need to sort 
+out as we head forward but the feelings and motivation in the team are positive and I have no doubt we will have a good product in the end.
+
+
+Endrit Karpuzi
