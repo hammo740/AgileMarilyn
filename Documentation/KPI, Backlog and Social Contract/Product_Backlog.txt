@@ -30,13 +30,16 @@ User stories:
 
 a) As a user I would like to choose between different categories 
 	Tasks:
-	- Add the categories (transport, outdoor, household, worklife, social life)
-	- Add the (category)menu interface
+	- Choose the categories (transport, outdoor, household, worklife, social life)
+	- Create the category menu activity
+	- Set the layout of the buttons
+	- Add buttons for each category and add the possibility to click on them
+	- Link each category button to its corrsponding screen with tips
 b) As a user I want to have an enjoyable slide-cards system for viewing tips
 	Tasks: 
-	- Implement the slide-card system
+	- Implement the slide-card system (the scroll layout: horizontal or vertical)
 	- Choose the design of the cards 
-	- Add the possibility to change language, while viewing a card
+	- (Add the possibility to change language, while viewing a card)
 c) As a user I want to have verified and helpful tips
 	Task:
 	- Add verified tips for each category
