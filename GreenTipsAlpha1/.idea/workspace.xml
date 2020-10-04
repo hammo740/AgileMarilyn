@@ -70,16 +70,19 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="android.template.1786651533">
-      <recent name="com.example.greentipsalpha1" />
-    </key>
-    <key name="android.template.1557719445">
+    <key name="android.template.789322602">
       <recent name="com.example.greentipsalpha1" />
     </key>
     <key name="android.template.-190514228">
       <recent name="com.example.greentipsalpha1" />
     </key>
-    <key name="android.template.789322602">
+    <key name="android.template.1786651533">
+      <recent name="com.example.greentipsalpha1" />
+    </key>
+    <key name="android.template.-1987027720">
+      <recent name="com.example.greentipsalpha1" />
+    </key>
+    <key name="android.template.1557719445">
       <recent name="com.example.greentipsalpha1" />
     </key>
   </component>
@@ -156,6 +159,11 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="934" y="278" key="AndroidCreateResourceDirectoryDialog" timestamp="1600809662122">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -165,14 +173,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="274" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601832768998" />
-    <state x="818" y="332" key="AndroidCreateXmlResourceDialog" timestamp="1600878207051">
+    <state x="818" y="332" key="AndroidCreateXmlResourceDialog" timestamp="1601840617706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="818" y="332" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600878207051" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601825867336">
+    <state x="818" y="332" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601840617706" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601835307324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601825867336" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601835307324" />
     <state width="1340" height="281" key="GridCell.Tab.0.bottom" timestamp="1601833914249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -189,10 +197,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601833914249" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1601831086643">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1601835478944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601831086643" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601835478944" />
     <state x="612" y="100" width="1215" height="847" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600878214886">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

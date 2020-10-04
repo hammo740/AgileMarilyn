@@ -27,9 +27,17 @@ anim design_bottom_sheet_slide_in
 anim design_bottom_sheet_slide_out
 anim design_snackbar_in
 anim design_snackbar_out
+anim fade_in
+anim fade_out
 anim mtrl_bottom_sheet_slide_in
 anim mtrl_bottom_sheet_slide_out
 anim mtrl_card_lowers_interpolator
+anim slide_down
+anim slide_in_left
+anim slide_in_right
+anim slide_out_left
+anim slide_out_right
+anim slide_up
 animator design_appbar_state_list_animator
 animator design_fab_hide_motion_spec
 animator design_fab_show_motion_spec
@@ -1531,6 +1539,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable charity
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1577,9 +1586,12 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable rounded_corners
 drawable rounded_tip_corner
+drawable schedule
 drawable test_custom_background
+drawable tips
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable united_nations
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -1670,6 +1682,8 @@ id beginning
 id blocking
 id bottom
 id bounce
+id btnCancel
+id btnSet
 id buttonPanel
 id cancel_button
 id center
@@ -1721,6 +1735,7 @@ id dragLeft
 id dragRight
 id dragStart
 id dragUp
+id drawer_layout
 id dropdown_menu
 id easeIn
 id easeInOut
@@ -1730,6 +1745,7 @@ id end
 id english
 id enterAlways
 id enterAlwaysCollapsed
+id et
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -1765,6 +1781,8 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageTips
+id imageView3
 id info
 id invisible
 id italic
@@ -1778,6 +1796,7 @@ id left
 id line1
 id line3
 id linear
+id linearLayout
 id listMode
 id list_item
 id masked
@@ -1932,6 +1951,8 @@ id textSpacerNoTitle
 id textStart
 id textView
 id textView2
+id textView3
+id textView4
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -2039,6 +2060,8 @@ layout activity_about
 layout activity_choose_category
 layout activity_choose_lang
 layout activity_help
+layout activity_schedule
+layout activity_splashscreen
 layout activity_transport_tips
 layout activity_welcome
 layout custom_dialog
@@ -2144,6 +2167,8 @@ string aboutapp
 string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
+string button_schedule_cancel
+string button_schedule_set
 string category
 string character_counter_content_description
 string character_counter_overflowed_content_description
@@ -2166,6 +2191,8 @@ string helpcontact
 string hide_bottom_view_on_scroll_behavior
 string household
 string icon_content_description
+string image_for_reminders
+string image_for_tips
 string item_view_role_description
 string material_slider_range_end
 string material_slider_range_start
@@ -2204,6 +2231,7 @@ string mtrl_picker_toggle_to_calendar_input_mode
 string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
+string name_reminder
 string outdoors
 string password_toggle_content_description
 string path_password_eye
@@ -2211,10 +2239,12 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string polsku
+string reminders
 string search_menu_title
 string shqip
 string sociallife
 string status_bar_notification_info_overflow
+string string_green_tips
 string svenska
 string transport
 string transporttip1

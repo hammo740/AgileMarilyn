@@ -45,7 +45,6 @@
 
 
     <string name="chooseTip">Choose a tip</string>
-
     <string name="transporttip1">Topic 1</string>
     <string name="transporttip2">Topic 2</string>
     <string name="transporttip3">Topic 3</string>
@@ -53,5 +52,18 @@
     <string name="transporttip5">Topic 5</string>
     <string name="transporttip6">Topic 6</string>
     <string name="transporttip7">Topic 7</string>
+
+
+    <string name="string_green_tips">Green Tips</string>
+    <string name="image_for_tips">image for tips</string>
+
+    <string name="reminders">Reminders</string>
+    <string name="image_for_reminders">image_for_reminders</string>
+
+
+
+    <string name="name_reminder">Name your reminder</string>
+    <string name="button_schedule_set">Set</string>
+    <string name="button_schedule_cancel">Cancel</string>
 
 </resources>
