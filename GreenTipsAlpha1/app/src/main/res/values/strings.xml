@@ -10,6 +10,9 @@
     <string name="continueButton">Continue</string>
     <string name="aboutButton">About</string>
     <string name="help">Help</string>
+    <string name="chooseCat">Choose a category</string>
+
+    <string name="category">Category</string>
 
     <string name="aboutapp">
         <b>Welcome to GreenTips!</b>\n
@@ -32,5 +35,23 @@
         <b>Smedra Touma:</b>\n
         smedra@student.chalmers.se
     </string>
+
+
+    <string name="transport">Transport</string>
+    <string name="outdoors">Outdoors</string>
+    <string name="worklife">Work life</string>
+    <string name="household">Household</string>
+    <string name="sociallife">Social life</string>
+
+
+    <string name="chooseTip">Choose a tip</string>
+
+    <string name="transporttip1">Topic 1</string>
+    <string name="transporttip2">Topic 2</string>
+    <string name="transporttip3">Topic 3</string>
+    <string name="transporttip4">Topic 4</string>
+    <string name="transporttip5">Topic 5</string>
+    <string name="transporttip6">Topic 6</string>
+    <string name="transporttip7">Topic 7</string>
 
 </resources>

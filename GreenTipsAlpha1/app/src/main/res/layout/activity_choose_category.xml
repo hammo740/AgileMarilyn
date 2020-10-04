@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".choose_lang">
+    tools:context=".choose_category">
 
     <TextView
         android:id="@+id/textView"
@@ -22,19 +22,19 @@
         android:layout_width="313dp"
         android:layout_height="59dp"
         android:layout_marginStart="40dp"
-        android:layout_marginTop="268dp"
+        android:layout_marginTop="200dp"
         android:alpha="0.8"
         android:background="@drawable/rounded_corners"
         android:enabled="false"
-        android:text="@string/chooseLang"
+        android:text="@string/chooseCat"
         android:textColor="#000"
-        android:textSize="25dp"
+        android:textSize="25sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <ScrollView
-        android:id="@+id/scrollViewLang"
-        android:layout_width="208dp"
+        android:id="@+id/scrollViewCat"
+        android:layout_width="308dp"
         android:layout_height="200dp"
         android:layout_marginTop="344dp"
         android:orientation="vertical"
@@ -43,55 +43,37 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <LinearLayout
-            android:id="@+id/scrollLayoutLang"
-            android:layout_width="138dp"
+            android:id="@+id/scrollLayoutCat"
+            android:layout_width="238dp"
             android:layout_height="100dp"
             android:layout_gravity="center"
-            android:layout_marginTop="70dp"
+            android:layout_marginTop="10dp"
             android:orientation="vertical">
 
             <Button
-                android:id="@+id/english"
-                android:layout_width="138dp"
+                android:id="@+id/idtransport"
+                android:layout_width="238dp"
                 android:layout_height="wrap_content"
-                android:text="@string/english" />
+                android:onClick="gotransport"
+                android:text="@string/transport" />
 
             <Button
-                android:id="@+id/swedish"
-                android:layout_width="138dp"
+                android:id="@+id/idoutdoors"
+                android:layout_width="238dp"
                 android:layout_height="wrap_content"
-                android:text="@string/svenska" />
+                android:text="@string/outdoors" />
 
             <Button
-                android:id="@+id/spanish"
-                android:layout_width="138dp"
+                android:id="@+id/idsociallife"
+                android:layout_width="238dp"
                 android:layout_height="wrap_content"
-                android:text="@string/espanol" />
+                android:text="@string/sociallife" />
 
             <Button
-                android:id="@+id/french"
-                android:layout_width="138dp"
+                android:id="@+id/idworklife"
+                android:layout_width="238dp"
                 android:layout_height="wrap_content"
-                android:text="@string/francais" />
-
-            <Button
-                android:id="@+id/arabic"
-                android:layout_width="138dp"
-                android:layout_height="wrap_content"
-                android:text="العربية." />
-
-            <Button
-                android:id="@+id/polish"
-                android:layout_width="138dp"
-                android:layout_height="wrap_content"
-                android:text="@string/polsku" />
-
-            <Button
-                android:id="@+id/albanian"
-                android:layout_width="138dp"
-                android:layout_height="wrap_content"
-                android:text="@string/shqip" />
-
+                android:text="@string/worklife" />
 
         </LinearLayout>
     </ScrollView>

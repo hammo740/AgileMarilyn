@@ -20,6 +20,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.greentipsalpha1.transportTips" />
+        <activity android:name="com.example.greentipsalpha1.choose_category" />
         <activity android:name="com.example.greentipsalpha1.help" />
         <activity android:name="com.example.greentipsalpha1.about" />
         <activity android:name="com.example.greentipsalpha1.choose_lang" />
