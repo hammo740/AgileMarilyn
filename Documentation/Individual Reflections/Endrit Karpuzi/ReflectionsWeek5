@@ -1,0 +1,60 @@
+My personal reflections for week 4.
+
+
+About the project:
+We decided to focus on implementing the card-system for the tips and the notification system. While we argued that it would be too much
+a single member to do one each, and too wasteful of resources to put all members on one story, we decided to tackle this issues
+(which we consider critical) by solving each task by smaller teams of three.
+
+
+My reflections:
+I've mentioned in my earlier reflection that this part of development will be both the most difficult and also the most important. This has
+proven to be true as I've have both seen a lot of concrete signs of development, yet also faced some issues that I feel will be needed
+to be solved going forward. I'll get deeper in these challenges as I discuss around the points for the individual reflection further on.
+
+
+What do I want to learn or understand better?
+One thing I definitely need to learn better (A) (disregarding technologies, which is a given) is to develop as a team (basically what this course is about). 
+I sometimes get the feeling that I probably could have done something faster by myself since I'm probably more comfortable in my own ideas. 
+In a group, however, it's a must to be on the same page and take decisions together and one will undoubtedly face challenges approaching this issue.
+Whether it is design decision, ways to approach the development or simply ideas about the application we are still six members of a team that
+all have valid thoughts and ideas. This means that for a good working environment (B), each member needs to feel comfortable in speaking their thoughts
+and feel comfortable in giving criticism when it's needed.
+
+The best way to reduce this gap (A -> B), at least for me as scrum master, is try to get everybody speak their own mind. It must also be clear
+that team members shouldn't be uncomfortable in saying what they think and neither should constructive criticism be seen as an attack. By being open for 
+discussion and listening to what other team member have to say, and being willing to let go of a personal idea och thought are all important qualities
+needed in order to tackle this issue and I feel that we get better at this for each day.
+
+
+How can I help someone else, or the entire team, to learn something new?
+As mentioned in earlier reflection, the approach regarding this question hasn't changed too much. When we don't understand something (A) we try
+task ask whoever is available. My goal would be to help whoever in my team has an issue (B) and it feels like each member is extremely willing to 
+help one another and we do this mostly by (A -> B) showing our screen when we have the solution, or pointing eachother in the right direction when we 
+are not sure (by telling eachother how to approach the issue we are facing).
+
+
+What is my contribution towards the team’s use of Scrum? 
+I mentioned this a bit in an earlier question; I try to get everybody to speak and tell us their thoughts about the project. I believe that having
+all members on board with a certain decision is the best way to approach it (even if some members will be more, or less happy with a decision - it is
+inevitable after all). By at least giving everybody the opportunity to chime in with their ideas, we know that we have all the information we have
+and can make a decision based on that.
+
+
+What is my contribution towards the team’s deliveries?
+As mentioned earlier, we split the two main tasks in two smaller groups. I've been in the group that developed the slide-card system. To be quite
+honest, this hasn't been my most productive week as I've both been working a bit more (before the exam period starts) and also focused a bit on other
+courses as well. This said, I'd estimate that around 50-60% of the implementation of the slide cards have been finished, and this is quite motivating 
+for me as I've still been able to deliver something even though I haven't been as productive as earlier. This is something I will need to reflect on personally
+and try to avoid happening again.
+
+
+About next week:
+Continuing on the thoughts from the last question, we all agree that we need to be a lot more productive going forward, starting next week. We are all
+in agreement that we haven't followed our schedule the best way we could and I personally will try to make it my focus. I will continue with the task with the 
+slide-cards system and will hopefully be finished with it early this week. As soon as these two tasks (slide cards and notification, which where are main 
+priority) we will continue with things that weren't as high in the hierarchy (like translation), and we have even more time left, we will start implement
+additional functionality.
+
+
+Endrit Karpuzi
