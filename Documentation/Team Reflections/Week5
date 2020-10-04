@@ -1,45 +1,61 @@
-Teamreflection week5.
+Team reflection week 5:
 
 Current situation A
 The week started with a meeting with our supervisor Hannes, he gave us feedback about our stories that they must be more clear and read what we mean, because our ideas
-are not alligne with what was written, he also mentioned that we should run each other's programs on each other's computer. The group had a meeting after we met with
-Hannes, and in our meeting we decided what we should do during the week, we devided the work in two groups consistning of:
+are not align with what was written, he also mentioned that we should run each other's programs on each other's computer. The group had a meeting after we met with
+Hannes, and in our meeting we decided what we should do during the week, we devided the work in two groups consisting of:
 Group A: Mohammed, Endrit and Cezary doing the Card-slide system.
 Group B: Firel, Alexis and Smedra doing the Notification together with the database.
-Each group had their own meeting to move on, and right now we are developing the pragramming of the applications.
+Each group had their own meeting to move on, and right now we are developing the programming of the application. We decided to focus on our 2 most important user stories,
+that we believe will bring the most value to our app: the tip-cards system and the notification feature. While the notifications are almost completed, the slide-cards 
+system is still under progress.
 
-B.
+What we want the situation to be? (B):
 We are expecting to be finished with the foundation of the application until next week. We want to be done with the basic functionality, and
-only have to fine tune solution, and begin adding the tips and translate the application.
+only have to fine tune solution, and begin adding the tips content and translate the application. We expect as well to have all the features pushed to git and have the
+developpment branches merged with the master. After this week we know that we should be more productive as a whole and maybe schedule the work and meetings better than we did.
+As it is our first experience with AndroidStudio we are all looking forward to continue learning it, while progressing in this project. Understanding better and knowing how to 
+use properly git and its branches remains also an important goal for the coming week.
 
-A->B  In order to reduce the gap we need to become beter in communicating and do it better in scheduling, we need to set more specific deadlines
-and have clear idea of what we want to deliver for each week
+Plan to reduce the gap (A->B):  
+In order to reduce the gap we need to become better in communicating and in scheduling our work; we need to set more specific deadlines
+and have clear idea of what we want to deliver for each week. While implementing the user stories and tasks assigned to our smaller groups or to ouselves, we will keep gaining 
+experience in developping in AndroidStudio and using the functionalities of version control tools like github. Doing more meetings in subgroups will allow us to have the opportunity
+to brainstorm more on implementation and values we want to deliver to the future users of our app.
 
 
 KPI:
-Productivity: 3.5 of 5 Some member had to wait until the base for their work should we be delivered 
-the productivity will be reflected in the individual reflection.
+Productivity: 3.5 of 5 
+Some members had to wait until the base for their work would be delivered on git.
+The productivity will be reflected in the individual reflection.
 
 Stress levels: 3 of 5 
 Both groups were stressed in the beggning since we didnt have a clear view at how long certain story would take and were unsure whether or not we would be able
 to meet the deadline.
 
-Team satisfaction: The produktivity levels are different from member to member since it had (2.5)
-the team satisfaction will be reflected in the individual reflection.
+Team satisfaction: 2.5 of 5 in overall.
+The productivity levels this week are different from a member to another member, which strongly affected each member's satisfaction level. 
+The satisfaction will be reflected a little bit better in the individual reflections.
 
 
 Social contact:
-We think we followed most of the rules we set for each other, the circumstances have been a bit different this week, the effort has been different betwwen the members.
+We think we followed most of the rules we set for each other. The circumstances have been a bit different this week, the effort has been different between the members. A rule
+we set on which we have to focus, as we have most troubles with respecting it is the rule number 3. We have up to 3 meetings in a week, but they are still not as reguler as
+we would like them to be. We still have to improve our ability to plan them in advance as we very often move them around during the week to match everybody's dynamic schedules.
 
 
-Design Desicion and code quality.
+Design Decision and code quality.
 We haven't had any code reviews yet so we haven't had a way to ensure the code quality. As soon as the two bigger tasks (slide cards and notifications) are finished, 
 we will tie them together so that they are integrated in the application and then we will also have a collective code review.
 
 
 Scrum
 Regarding the Scrum method, we had some criticism and ideas from Hannes for our Scrum board and stories which weren't too well defined. We've tried to fix them and define
-them even more thorougly.
+them even more thorougly. We made some of our user stories more "vertical" and ensured that once done they bring value to the user.
+Each sprint we move some user stories from the product backlog to the current sprint section. Once started they are moved to the "in progress" section and we try to keep
+updating the scrum board while progressing. This allows each memeber to keep track of the progress and the tasks to be done.
+We continue to learn how to use new tools, like AndroidStudio, Trello or GitHub(also GitKraken) and with each sprint the team feels more confident about them and more efficient
+in using them to improve our work.
 We try to have meetings each Sunday to discuss how things have gone and discuss whether or not something hasn't gone as well and try to find a common solution going forward.
 For example we believed that the two most critical tasks were a bit too big to handle individually and that it would take too much focus to do them as a whole group,
 so we've decided to split these two in two smaller teams.
