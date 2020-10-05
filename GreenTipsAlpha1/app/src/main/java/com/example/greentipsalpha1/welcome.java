@@ -13,10 +13,7 @@ public class welcome extends AppCompatActivity {
         setContentView(R.layout.activity_welcome);
     }
 
-
-    public void chooseLangScreen(View v){
-        startActivity(new Intent(welcome.this, choose_lang.class));
-    }
+    public void chooseLangScreen(View v){ startActivity(new Intent(welcome.this, choose_lang.class)); }
 
     public void aboutScreen(View v){
         startActivity(new Intent(welcome.this, about.class));
@@ -25,4 +22,10 @@ public class welcome extends AppCompatActivity {
     public void helpScreen(View v){
         startActivity(new Intent(welcome.this, help.class));
     }
+
+    public void categoryScreen(View v){ startActivity(new Intent(welcome.this, choose_category.class)); }
+
+    public void scheduleScreen(View v){ startActivity(new Intent(welcome.this, schedule.class)); }
+
+
 }

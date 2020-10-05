@@ -10,6 +10,9 @@
     <string name="continueButton">Continue</string>
     <string name="aboutButton">About</string>
     <string name="help">Help</string>
+    <string name="chooseCat">Choose a category</string>
+
+    <string name="category">Category</string>
 
     <string name="aboutapp">
         <b>Welcome to GreenTips!</b>\n
@@ -32,5 +35,37 @@
         <b>Smedra Touma:</b>\n
         smedra@student.chalmers.se
     </string>
+
+
+    <string name="transport">Transport</string>
+    <string name="outdoors">Outdoors</string>
+    <string name="worklife">Work life</string>
+    <string name="household">Household</string>
+    <string name="sociallife">Social life</string>
+
+
+    <string name="chooseTip">Choose a tip</string>
+    <string name="transporttip1">Here we give information about the first tip, on click open this slide</string>
+    <string name="transporttip2">Here we give information about the second tip, on click open this slide</string>
+    <string name="transporttip3">Topic 3</string>
+    <string name="transporttip4">Topic 4</string>
+    <string name="transporttip5">Topic 5</string>
+    <string name="transporttip6">Topic 6</string>
+    <string name="transporttip7">Topic 7</string>
+
+
+    <string name="string_green_tips">Green Tips</string>
+    <string name="image_for_tips">image for tips</string>
+
+    <string name="reminders">Reminders</string>
+    <string name="image_for_reminders">image_for_reminders</string>
+
+
+    <string name="name_reminder">Name your reminder</string>
+    <string name="button_schedule_set">Set</string>
+    <string name="button_schedule_cancel">Cancel</string>
+    <string name="testSlider">test för slider</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
