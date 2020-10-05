@@ -66,6 +66,7 @@
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
+                android:onClick="goToTransportSlide"
                 android:text="@string/worklifetip1" />
 
             <Button
