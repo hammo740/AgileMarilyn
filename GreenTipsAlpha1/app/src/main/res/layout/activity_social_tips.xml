@@ -4,13 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".transportTips">
+    android:background="@drawable/greenback"
+    tools:context=".socialTips">
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/greenback"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -34,7 +34,7 @@
         android:layout_marginTop="200dp"
         android:gravity="center"
         android:enabled="false"
-        android:text="@string/transport"
+        android:text="@string/sociallife"
         android:textColor="#000000"
         android:textAlignment="center"
         android:textSize="20sp"
@@ -42,7 +42,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ScrollView
-        android:id="@+id/scrollViewLTransport"
+        android:id="@+id/scrollViewSocial"
         android:layout_width="400dp"
         android:layout_height="400dp"
         android:layout_marginTop="250dp"
@@ -52,7 +52,7 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <LinearLayout
-            android:id="@+id/scrollLayoutTransport"
+            android:id="@+id/scrollLayoutSocial"
             android:layout_width="350dp"
             android:layout_height="800dp"
             android:layout_marginTop="360dp"
@@ -60,67 +60,68 @@
             android:orientation="vertical">
 
             <Button
-                android:id="@+id/tip1"
+                android:id="@+id/socialtip1"
                 android:alpha="0.7"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
-                android:text="@string/transporttip1" />
+                android:text="@string/socialtip1" />
 
             <Button
-                android:id="@+id/tip2"
+                android:id="@+id/socialtip2"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
-                android:text="@string/transporttip2" />
+                android:text="@string/socialtip2" />
 
             <Button
-                android:id="@+id/tip3"
+                android:id="@+id/socialtip3"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
-                android:text="@string/transporttip3" />
+                android:text="@string/socialtip3" />
 
             <Button
-                android:id="@+id/tip4"
+                android:id="@+id/socialtip4"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
-                android:text="@string/transporttip4" />
+                android:text="@string/socialtip4" />
 
             <Button
-                android:id="@+id/tip5"
+                android:id="@+id/socialtip5"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
-                android:text="@string/transporttip5" />
+                android:text="@string/socialtip5" />
 
             <Button
-                android:id="@+id/tip6"
+                android:id="@+id/socialtip6"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
-                android:text="@string/transporttip6" />
+                android:text="@string/socialtip6" />
 
             <Button
-                android:id="@+id/tip7"
+                android:id="@+id/socialtip7"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="25dp"
-                android:text="@string/transporttip7" />
+
+                android:text="@string/socialtip7" />
 
 
         </LinearLayout>
@@ -153,5 +154,4 @@
         app:layout_constraintBottom_toBottomOf="parent"
         android:layout_marginBottom="5dp"
         android:layout_marginEnd="80dp"/>
-
 </androidx.constraintlayout.widget.ConstraintLayout>

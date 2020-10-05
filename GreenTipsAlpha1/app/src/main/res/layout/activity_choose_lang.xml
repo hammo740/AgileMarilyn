@@ -4,17 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/greenback"
     tools:context=".choose_lang">
-
     <TextView
         android:id="@+id/textView"
-        android:layout_width="395dp"
-        android:layout_height="785dp"
-        android:background="@drawable/greenhome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -23,8 +21,8 @@
         android:layout_height="59dp"
         android:layout_marginStart="40dp"
         android:layout_marginTop="268dp"
-        android:alpha="0.8"
-        android:background="@drawable/rounded_corners"
+        android:alpha="0.7"
+        android:background="@drawable/rounded_tip_corner"
         android:enabled="false"
         android:text="@string/chooseLang"
         android:textColor="#000"
