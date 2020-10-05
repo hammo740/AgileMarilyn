@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">GreenTips</string>
+    <string name="chooseLang">Choose a language</string>
+    <string name="espanol">Español</string>
+    <string name="svenska">Svenska</string>
+    <string name="polsku">Polski</string>
+    <string name="shqip">Shqip</string>
+    <string name="english">English</string>
+    <string name="francais">Français</string>
+    <string name="continueButton">Continue</string>
+    <string name="aboutButton">About</string>
+    <string name="help">Help</string>
+    <string name="chooseCat">Choose a category</string>
+
+    <string name="category">Category</string>
+
+    <string name="aboutapp">
+        <b>Welcome to GreenTips!</b>\n
+        \nThis application was developed by 6 students at Chalmers Tekniska Högskola in Gothenburg, Sweden.\n
+        \nWith the tips and ideas we give to you here, we will help you to reduce you environmental impact and live a healthier life!\n
+        \nSimply choose the category you are interested in and we will supply many, simple ways for a greener life.
+        \nReceive notifications for reminders and strive for achievements by choosing to have a tip in focus!
+    </string>
+    <string name="helpcontact"><b>Contact a developer:</b>\n\n
+        <b>Alexis Tello:</b>\n
+        alexis@student.chalmers.se\n\n
+        <b>Cezary Januszek:</b>\n
+        januszek@student.chalmers.se\n\n
+        <b>Endrit Karpuzi:</b>\n
+        karpuzi@student.chalmers.se\n\n
+        <b>Firel Issa:</b>\n
+        firel@student.chalmers.se\n\n
+        <b>Mohammed Al-fatlawi:</b>\n
+        mohalf@student.chalmers.se\n\n
+        <b>Smedra Touma:</b>\n
+        smedra@student.chalmers.se
+    </string>
+
+
+    <string name="transport">Transport</string>
+    <string name="outdoors">Outdoors</string>
+    <string name="worklife">Work life</string>
+    <string name="household">Household</string>
+    <string name="sociallife">Social life</string>
+
+
+    <string name="chooseTip">Choose a tip</string>
+    <string name="transporttip1">Here we give information about the first tip, on click open this slide</string>
+    <string name="transporttip2">Here we give information about the second tip, on click open this slide</string>
+    <string name="transporttip3">Topic 3</string>
+    <string name="transporttip4">Topic 4</string>
+    <string name="transporttip5">Topic 5</string>
+    <string name="transporttip6">Topic 6</string>
+    <string name="transporttip7">Topic 7</string>
+
+
+    <string name="string_green_tips">Green Tips</string>
+    <string name="image_for_tips">image for tips</string>
+
+    <string name="reminders">Reminders</string>
+    <string name="image_for_reminders">image_for_reminders</string>
+
+
+    <string name="name_reminder">Name your reminder</string>
+    <string name="button_schedule_set">Set</string>
+    <string name="button_schedule_cancel">Cancel</string>
+    <string name="testSlider">test för slider</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

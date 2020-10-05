@@ -11,7 +11,7 @@
 9-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:5:5-27:19
+11-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:5:5-29:19
 12        android:allowBackup="true"
 12-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -29,44 +29,47 @@
 20        android:testOnly="true"
 21        android:theme="@style/AppTheme" >
 21-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:11:9-40
-22        <activity
-22-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:12:9-13:54
-23            android:name="com.example.greentipsalpha1.schedule"
-23-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:12:19-43
-24            android:windowSoftInputMode="adjustPan" />
-24-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:13:13-52
-25        <activity android:name="com.example.greentipsalpha1.splashscreen" >
-25-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:14:9-20:20
-25-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:14:19-47
-26            <intent-filter>
-26-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:15:13-19:29
-27                <action android:name="android.intent.action.MAIN" />
-27-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:16:17-69
-27-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:16:25-66
-28
-29                <category android:name="android.intent.category.LAUNCHER" />
-29-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:18:17-77
-29-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:18:27-74
-30            </intent-filter>
-31        </activity>
-32        <activity android:name="com.example.greentipsalpha1.transportTips" />
-32-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:21:9-51
-32-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:21:19-48
-33        <activity android:name="com.example.greentipsalpha1.choose_category" />
-33-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:22:9-53
-33-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:22:19-50
-34        <activity android:name="com.example.greentipsalpha1.help" />
-34-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:23:9-42
-34-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:23:19-39
-35        <activity android:name="com.example.greentipsalpha1.about" />
-35-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:24:9-43
-35-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:24:19-40
-36        <activity android:name="com.example.greentipsalpha1.choose_lang" />
-36-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:25:9-49
-36-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:25:19-46
-37        <activity android:name="com.example.greentipsalpha1.welcome" />
-37-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:26:9-45
-37-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:26:19-42
-38    </application>
-39
-40</manifest>
+22        <activity android:name="com.example.greentipsalpha1.slidetips" />
+22-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:12:9-46
+22-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:12:19-44
+23        <activity
+23-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:13:9-15:55
+24            android:name="com.example.greentipsalpha1.schedule"
+24-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:14:13-37
+25            android:windowSoftInputMode="adjustPan" />
+25-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:15:13-52
+26        <activity android:name="com.example.greentipsalpha1.splashscreen" >
+26-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:16:9-22:20
+26-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:16:19-47
+27            <intent-filter>
+27-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:17:13-21:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:18:17-69
+28-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:18:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:20:17-77
+30-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:20:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity android:name="com.example.greentipsalpha1.transportTips" />
+33-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:23:9-51
+33-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:23:19-48
+34        <activity android:name="com.example.greentipsalpha1.choose_category" />
+34-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:24:9-53
+34-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:24:19-50
+35        <activity android:name="com.example.greentipsalpha1.help" />
+35-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:25:9-42
+35-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:25:19-39
+36        <activity android:name="com.example.greentipsalpha1.about" />
+36-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:26:9-43
+36-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:26:19-40
+37        <activity android:name="com.example.greentipsalpha1.choose_lang" />
+37-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:27:9-49
+37-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:27:19-46
+38        <activity android:name="com.example.greentipsalpha1.welcome" />
+38-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:28:9-45
+38-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:28:19-42
+39    </application>
+40
+41</manifest>

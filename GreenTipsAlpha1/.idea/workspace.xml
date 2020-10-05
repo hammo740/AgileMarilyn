@@ -47,6 +47,7 @@
       <list>
         <option value="layoutResourceFile" />
         <option value="resourceFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -70,19 +71,22 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="android.template.789322602">
+    <key name="android.template.-1987027720">
       <recent name="com.example.greentipsalpha1" />
     </key>
-    <key name="android.template.-190514228">
+    <key name="android.template.-733805616">
       <recent name="com.example.greentipsalpha1" />
     </key>
     <key name="android.template.1786651533">
       <recent name="com.example.greentipsalpha1" />
     </key>
-    <key name="android.template.-1987027720">
+    <key name="android.template.1557719445">
       <recent name="com.example.greentipsalpha1" />
     </key>
-    <key name="android.template.1557719445">
+    <key name="android.template.-190514228">
+      <recent name="com.example.greentipsalpha1" />
+    </key>
+    <key name="android.template.789322602">
       <recent name="com.example.greentipsalpha1" />
     </key>
   </component>
@@ -165,6 +169,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601859557092">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601859557092" />
     <state x="934" y="278" key="AndroidCreateResourceDirectoryDialog" timestamp="1600809662122">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -173,14 +181,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="274" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601832768998" />
-    <state x="818" y="332" key="AndroidCreateXmlResourceDialog" timestamp="1601840617706">
+    <state x="818" y="332" key="AndroidCreateXmlResourceDialog" timestamp="1601858834117">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="818" y="332" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601840617706" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601835307324">
+    <state x="818" y="332" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601858834117" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601857528159">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601835307324" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601857528159" />
     <state width="1340" height="281" key="GridCell.Tab.0.bottom" timestamp="1601833914249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -205,13 +213,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="612" y="100" width="1215" height="847" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600878214886" />
-    <state x="915" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1601833934229">
+    <state x="915" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1601856361591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="915" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601833934229" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1601830555899">
+    <state x="915" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601856361591" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1601858621382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601830555899" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601858621382" />
   </component>
 </project>
