@@ -55,73 +55,74 @@
 
         <LinearLayout
             android:id="@+id/scrollLayoutHousehold"
-            android:layout_width="350dp"
-            android:layout_height="800dp"
-            android:layout_marginTop="360dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:orientation="vertical">
+            android:layout_marginTop="370dp"
+            android:orientation="vertical"
+            app:layout_constraintTop_toTopOf="parent">
 
             <Button
                 android:id="@+id/householdtip1"
-                android:alpha="0.7"
-                android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
+                android:alpha="0.7"
+                android:background="@drawable/rounded_tip_corner"
                 android:text="@string/householdtip1" />
 
             <Button
                 android:id="@+id/householdtip2"
-                android:alpha="0.8"
-                android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
+                android:alpha="0.8"
+                android:background="@drawable/rounded_tip_corner"
                 android:text="@string/householdtip2" />
 
             <Button
                 android:id="@+id/householdtip3"
-                android:alpha="0.8"
-                android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
+                android:alpha="0.8"
+                android:background="@drawable/rounded_tip_corner"
                 android:text="@string/householdtip3" />
 
             <Button
                 android:id="@+id/householdtip4"
-                android:alpha="0.8"
-                android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
+                android:alpha="0.8"
+                android:background="@drawable/rounded_tip_corner"
                 android:text="@string/householdtip4" />
 
             <Button
                 android:id="@+id/householdtip5"
-                android:alpha="0.8"
-                android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
+                android:alpha="0.8"
+                android:background="@drawable/rounded_tip_corner"
                 android:text="@string/householdtip5" />
 
             <Button
                 android:id="@+id/householdtip6"
-                android:alpha="0.8"
-                android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
+                android:alpha="0.8"
+                android:background="@drawable/rounded_tip_corner"
                 android:text="@string/householdtip6" />
 
             <Button
                 android:id="@+id/householdtip7"
-                android:alpha="0.8"
-                android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="25dp"
+                android:alpha="0.8"
+                android:background="@drawable/rounded_tip_corner"
                 android:text="@string/householdtip7" />
 
         </LinearLayout>
@@ -134,7 +135,7 @@
         android:layout_width="45dp"
         android:layout_height="45dp"
         android:layout_gravity="center"
-        android:onClick="returnActivity"
+        android:onClick="returnHome"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -147,7 +148,7 @@
         android:background="@drawable/undo"
         android:layout_width="45dp"
         android:layout_height="45dp"
-        android:onClick="returnHome"
+        android:onClick="returnActivity"
         android:layout_gravity="center"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
