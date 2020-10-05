@@ -94,5 +94,8 @@
     <string name="name_reminder">Name your reminder</string>
     <string name="button_schedule_set">Set</string>
     <string name="button_schedule_cancel">Cancel</string>
+    <string name="helpicon">help</string>
+    <string name="languageicon">help</string>
+    <string name="infoicon">help</string>
 
 </resources>

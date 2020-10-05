@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/greenback"
+    android:background="@drawable/greenhome"
     tools:context=".choose_lang">
     <TextView
         android:id="@+id/textView"
@@ -21,8 +21,8 @@
         android:layout_height="59dp"
         android:layout_marginStart="40dp"
         android:layout_marginTop="268dp"
-        android:alpha="0.7"
-        android:background="@drawable/rounded_tip_corner"
+        android:alpha="0.9"
+        android:background="@drawable/rounded_corners"
         android:enabled="false"
         android:text="@string/chooseLang"
         android:textColor="#000"
@@ -33,7 +33,7 @@
     <ScrollView
         android:id="@+id/scrollViewLang"
         android:layout_width="208dp"
-        android:layout_height="200dp"
+        android:layout_height="300dp"
         android:layout_marginTop="344dp"
         android:orientation="vertical"
         app:layout_constraintEnd_toEndOf="parent"
@@ -46,48 +46,70 @@
             android:layout_height="100dp"
             android:layout_gravity="center"
             android:layout_marginTop="70dp"
+            android:layout_marginBottom="10dp"
             android:orientation="vertical">
 
             <Button
                 android:id="@+id/english"
                 android:layout_width="138dp"
+                android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
+                android:alpha="0.9"
+                android:background="@drawable/rounded_tip_corner"
                 android:text="@string/english" />
 
             <Button
                 android:id="@+id/swedish"
                 android:layout_width="138dp"
+                android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
+                android:alpha="0.9"
+                android:background="@drawable/rounded_tip_corner"
                 android:text="@string/svenska" />
 
             <Button
                 android:id="@+id/spanish"
                 android:layout_width="138dp"
+                android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
+                android:alpha="0.9"
+                android:background="@drawable/rounded_tip_corner"
                 android:text="@string/espanol" />
 
             <Button
                 android:id="@+id/french"
                 android:layout_width="138dp"
+                android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
+                android:alpha="0.9"
+                android:background="@drawable/rounded_tip_corner"
                 android:text="@string/francais" />
 
             <Button
                 android:id="@+id/arabic"
                 android:layout_width="138dp"
+                android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
+                android:alpha="0.9"
+                android:background="@drawable/rounded_tip_corner"
                 android:text="العربية." />
 
             <Button
                 android:id="@+id/polish"
                 android:layout_width="138dp"
+                android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
+                android:alpha="0.9"
+                android:background="@drawable/rounded_tip_corner"
                 android:text="@string/polsku" />
 
             <Button
                 android:id="@+id/albanian"
                 android:layout_width="138dp"
+                android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
+                android:alpha="0.9"
+                android:background="@drawable/rounded_tip_corner"
                 android:text="@string/shqip" />
 
 
