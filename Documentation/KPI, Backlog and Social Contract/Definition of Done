@@ -1,0 +1,12 @@
+Definition of Done (DoD)
+
+As a team we define a user story to be done if it meets the followings criteria:
+1) Code is finished and builds with no errors
+2) Code review is done
+3) Implemented feature is tested and usable
+4) The user story meets its acceptance criteria;
+5) The corresponding developpment git branch is merged 
+6) Product owner accepts the finished user story
+
+If all of this criteria are checked we can move the user story card from the "In Progress" section to the "Done" section on our Scrum board.
+Therefore the user story is considered as completed.
