@@ -16,29 +16,30 @@ public class SliderAdapter extends PagerAdapter {
     LayoutInflater layoutInflater;
 
     public SliderAdapter (Context context) {
-
         this.context = context;
-
     }
 
     //arrays
     public int[] slide_images = {
-
-           R.drawable.charity,
-            R.drawable.united_nations
+            R.drawable.lamp,
+            R.drawable.lamp,
+            R.drawable.lamp,
+            R.drawable.lamp,
+            R.drawable.lamp,
+            R.drawable.lamp,
+            R.drawable.lamp,
     };
 
-    public String[] slide_headings = {
-            "blabla1",
-            "blabla2"
-
+    public int[] slide_headings = {
+            R.string.transporttip1,
+            R.string.transporttip2,
+            R.string.transporttip3,
+            R.string.transporttip4,
+            R.string.transporttip5,
+            R.string.transporttip6,
+            R.string.transporttip7,
     };
 
-    public String[] slide_descs = {
-            "Test1",
-            "test2"
-
-    };
 
     @Override
     public int getCount() {
@@ -54,15 +55,13 @@ public class SliderAdapter extends PagerAdapter {
     public Object instantiateItem(ViewGroup container, int position) {
 
         layoutInflater = (LayoutInflater) context.getSystemService(context.LAYOUT_INFLATER_SERVICE);
-        View view = layoutInflater.inflate(R.layout.slide_layout, container, false);
+        View view = layoutInflater.inflate(R.layout.slide_functionality, container, false);
 
         ImageView slideImageView = (ImageView) view.findViewById(R.id.slide_image);
         TextView slideHeading = (TextView) view.findViewById(R.id.slide_heading);
-        TextView slideDescription = (TextView) view.findViewById(R.id.slide_desc);
 
         slideImageView.setImageResource(slide_images[position]);
         slideHeading.setText(slide_headings[position]);
-        slideDescription.setText(slide_descs[position]);
 
         container.addView(view);
 

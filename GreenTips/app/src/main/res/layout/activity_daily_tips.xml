@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DailyTipsActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="395dp"
+        android:layout_height="785dp"
+        android:background="@drawable/background_2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:layout_width="313dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="200dp"
+        android:alpha="0.8"
+        android:background="@drawable/rounded_corners"
+        android:enabled="false"
+        android:text="Choose a category"
+        android:textColor="#000"
+        android:textSize="25sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ScrollView
+        android:id="@+id/scrollViewCat"
+        android:layout_width="308dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="344dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:id="@+id/scrollLayoutCat"
+            android:layout_width="238dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/idtransport"
+                android:layout_width="238dp"
+                android:layout_height="wrap_content"
+                android:onClick="gotransport"
+                android:text="Transport" />
+
+            <Button
+                android:id="@+id/idoutdoors"
+                android:layout_width="238dp"
+                android:layout_height="wrap_content"
+                android:text="Outdoors" />
+
+            <Button
+                android:id="@+id/idsociallife"
+                android:layout_width="238dp"
+                android:layout_height="wrap_content"
+                android:text="Social Life" />
+
+            <Button
+                android:id="@+id/idworklife"
+                android:layout_width="238dp"
+                android:layout_height="wrap_content"
+                android:text="Work Life" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

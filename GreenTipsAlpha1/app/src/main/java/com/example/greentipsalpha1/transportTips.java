@@ -22,4 +22,8 @@ public class transportTips extends AppCompatActivity {
     public void returnHome(View v){
         startActivity(new Intent(transportTips.this, welcome.class));
     }
+
+    public void goToTransportSlide(View v) {
+        startActivity(new Intent(transportTips.this, transportslide.class));
+    }
 }
