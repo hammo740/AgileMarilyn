@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GreenTips.iml" filepath="$PROJECT_DIR$/.idea/GreenTips.iml" group="GreenTips" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GreenTips.iml" filepath="$PROJECT_DIR$/.idea/modules/GreenTips.iml" group="GreenTips" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="GreenTips/app" />
     </modules>
   </component>

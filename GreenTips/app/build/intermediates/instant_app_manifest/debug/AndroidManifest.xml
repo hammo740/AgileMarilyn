@@ -19,6 +19,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.chalmers.greentips.TransportTipsActivity" />
+        <activity android:name="com.chalmers.greentips.DatabaseActivity" />
         <activity android:name="com.chalmers.greentips.LoginActivity" />
         <activity android:name="com.chalmers.greentips.CharityActivity" />
         <activity android:name="com.chalmers.greentips.UNFactsActivity" />
