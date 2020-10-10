@@ -95,7 +95,7 @@
     <string name="button_schedule_set">Set</string>
     <string name="button_schedule_cancel">Cancel</string>
     <string name="helpicon">help</string>
-    <string name="languageicon">help</string>
+    <string name="languageIcon">help</string>
     <string name="infoicon">help</string>
     <string name="image_slide">image slide for slide functionality</string>
 

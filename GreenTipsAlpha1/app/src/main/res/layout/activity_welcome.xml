@@ -5,13 +5,11 @@
     android:id="@+id/drawer_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/greenback"
     tools:context=".welcome"
     android:fitsSystemWindows="true"
     tools:openDrawer="start">
 
-    <include layout="@layout/base_activity" />
-
+   <include layout="@layout/base_activity" />
 
     <ScrollView
         android:layout_width="match_parent"
