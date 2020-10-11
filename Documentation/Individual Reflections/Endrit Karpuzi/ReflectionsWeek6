@@ -1,0 +1,46 @@
+My personal reflections for week 6.
+
+
+About the project:
+We have finished developing most of the slide-card system with a few tweaks to be made. We've also updated the Trello board 
+(split in a new board for each sprint), added graphs for our KPI's and added a DoD (Definition of Done).
+
+My reflections:
+I personally feel I had a great early days in this week where we managed to implement a working slide-card system quite early, 
+which was one of the main goal with the other being the notification system. I put a lot of time during the first two days of the 
+week since a total of 5 of 6 group members had an exam on Friday, which meant that the lastthree days of the week were mostly 
+focused on that course. 
+
+The situation as of now (A) is that we have managed to almost finishing our most critical tasks. The last sprint starts tomorrow 
+and we still have a few things to finish. Personally, it was a bit unfortunate that most of our group had an exam this Friday since 
+it took a bit time from all of us and might have set us behind schedule a bit. I feel we have got a good understanding of the 
+"organizational" parts of the agile development, such has DoD, KPI's, backlogs etc. which we had a few difficulties with in the beginning. 
+
+I have personally worked pretty much only on the slide-card system this week, with some tweaks to UI as well. I initially thought the system
+would be too challenging and take more time than I had hoped, but together with my team members we managed to implement a working system
+quite fast, with only a few tweaks remaining. The design and layout is also something I've worked on together with all members, and it seems
+like one area we are all very happy with.
+
+By next week, I hope the situation will be (B) that we have a completely finished application by the end of the week so that we can solely
+focus on the presentations the last days. I have no doubt that we will manage to do this on time, although it make take some more effort 
+from us. We also had some "in case we have time"-tasks with functionality we would have wanted to develop if we had enough time, and it seems 
+that perhaps a few of these might have to skipped completely. I also believe we should have the application ready and capable to run on our
+(Android) phones by the time we are finished with the project. Another thing that we should finish quite early this week is the translations
+of the application. This shouldn't be too much of an effort, but might prove to be time-consuming, which is we can't underestime the time it
+takes.
+
+The best way to get to where we want to be (A -> B) is by completely focus on this course with daily meetings for this week. I've mentioned that
+we've been lacking a bit in that area in the past, and that it's been challenging with the schedule and meetings, and that is something that must
+be at it best this week. I would argue that even two meetings a day would be in place, one at the start of each work session, and one in the end.
+
+My estimation for this week would be:
+Monday-Tuesday - finish slide-cardssystem and notification
+Wednesday - finish last tweaks/bugs 
+Thursday - Extra day/last code-review
+Friday - Testing/setup for release
+Saturday - Release
+Sunday - Extra day
+
+My estimations have been rather OK during this project and I believe we can finish before our deadline on Sunday with these schedule. 
+
+Endrit Karpuzi
