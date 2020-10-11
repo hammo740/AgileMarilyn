@@ -1,0 +1,42 @@
+Team reflection week 5:
+
+Current situation A:
+
+During this week we focused on implementing the notification and slide-card system. We managed to pretty much fix the functionality for both these tasks, '
+and just have a few small things to adjust.
+5 out of 6 Group members had an exam this Friday and had to focus a bit on that as well, which means that most of the work has been done early in the week.
+We are aware that next sprint will be the last where we actually program and we realize that we will have to be more active the whole of week.
+We've also fixed some things that were noted during this weeks supervision meeting with Hannes such as the DoD, definition of done, which is what we consider to be done is. 
+We also got the tip to split our scrum board into smaller boards for each sprint, which we have also done. This week differed from last week, in the fact that we all did our 
+jobs in good time and we had better communication between the two teams in our group. 
+
+
+What we want the situation to be? (B):
+We need to be finished with the app in Friday at latest. The release is scheduled to Sunday and we want a few days clear where we can fix any problem that might occur.
+
+
+Plan to reduce the gap (A->B): 
+The major tasks have pretty much been implemented and one of the last big tasks is add the content and different languages. These aren't very difficult tasks to do but
+they might take some time. To do this, we will have meetings everyday instead of just a few per week, and will put most of our studying time towards this project,
+While we still have some things to finish, we are feeling optimistic about meeting our deadlines.
+
+KPI:
+Productivity: With regards to the amount of time we had for the project, we would put it at a 4.
+
+Stress levels: We made time for the work we had to do, which made it less stressful than last time 2.5 of 5
+
+Team satisfaction: 4 of 5 in overall.
+
+Social contract:
+We think we followed most of the rules we set for each other, we learned from past mistakes (last week). We delivered what we had set for ourselves as the goals for this week. 
+We had regular meetings which made it easy to work as i wrote earlier in the report. 
+
+Design Decision and code quality:
+We've also tried coding together as part of a code-quality measure. For example when we did the slide card system, 
+we shared our screens to show code we implemented and gave ideas to optimize it.
+
+Scrum:
+As we mentioned earlier, we have implemented some new ideas given to us by Hannes. We have split our scrum board to a smaller one for each sprint and also further
+redefined our stories. We've also defined our definition of done (DoD) and it can be found under Documentation in our git repository.är dt
+
+
