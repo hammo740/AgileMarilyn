@@ -94,8 +94,12 @@
     <string name="name_reminder">Name your reminder</string>
     <string name="button_schedule_set">Set</string>
     <string name="button_schedule_cancel">Cancel</string>
+    <string name="helpicon">help</string>
+    <string name="languageicon">help</string>
+    <string name="infoicon">help</string>
     <string name="image_slide">image slide for slide functionality</string>
 
+<<<<<<< HEAD
     <string name="hint_button">Enter Your Task</string>
     <string name="btn_schedule_set">Set</string>
     <string name="btn_schedule_cancel">Cancel</string>
@@ -146,4 +150,7 @@
         <item>27</item>
         <item>28</item>
     </string-array>
+=======
+
+>>>>>>> development1
 </resources>
