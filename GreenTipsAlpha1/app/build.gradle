@@ -8,8 +8,8 @@ android {
         applicationId "com.example.greentipsalpha1"
         minSdkVersion 26
         targetSdkVersion 30
-        versionCode 1
-        versionName "1.0"
+        versionCode defaultVersionCode
+        versionName '5.5'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
