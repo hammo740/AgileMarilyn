@@ -20,4 +20,13 @@ public class choose_category extends AppCompatActivity {
     public void gosocial (View v){ startActivity(new Intent(choose_category.this, socialTips.class)); }
     public void goworklife (View v){ startActivity(new Intent(choose_category.this, worklifeTips.class)); }
 
+    public void returnActivity (View v){
+        finish();
+    }
+
+    public void returnHome(View v){
+        startActivity(new Intent(choose_category.this, welcome.class));
+    }
+
+
 }

@@ -21,7 +21,7 @@
         \nReceive notifications for reminders and strive for achievements by choosing to have a tip in focus!
     </string>
 
-    <string name="helpcontact"><b>Contact a developer:</b></string>
+    <string name="helpcontact">Contact a developer:</string>
     <string name="helpinfo">
         <b>Alexis Tello:</b>\n
         alexis@student.chalmers.se\n\n
@@ -46,7 +46,16 @@
 
 
     <string name="chooseTip">Choose a tip</string>
-    <string name="transporttip1">Transport1</string>
+    <string name="shorttransporttip1">Walk for short trips</string>
+    <string name="transporttip1">Walk for short trips.
+        \n\nWalking helps reduce body fat, lower blood pressure and is free.
+        It may also take less time than you think.
+
+        \n\nStudies have shown that most people will underestimate time related to car
+        journeys and overestimate the time it will take to walk.
+        \n\nThe average walking pace is six kilometres per hour and
+        if you walk you don’t need to find a car bay when you arrive.</string>
+
     <string name="transporttip2">Here we give information about the second tip, on click open this slide</string>
     <string name="transporttip3">Here we give information about the second tip, on click open this slide</string>
     <string name="transporttip4">Here we give information about the second tip, on click open this slide</string>

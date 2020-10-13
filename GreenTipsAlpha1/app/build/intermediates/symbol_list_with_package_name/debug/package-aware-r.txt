@@ -1913,10 +1913,8 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollLayoutCat
 id scrollLayoutHousehold
-id scrollLayoutLang
 id scrollView
 id scrollViewHousehold
-id scrollViewLang
 id scrollViewOutdoors
 id scrollViewSocial
 id scrollViewTransport
@@ -2260,6 +2258,7 @@ string francais
 string help
 string helpcontact
 string helpicon
+string helpinfo
 string hide_bottom_view_on_scroll_behavior
 string household
 string householdtip1
@@ -2330,6 +2329,7 @@ string path_password_strike_through
 string polsku
 string reminders
 string search_menu_title
+string shorttransporttip1
 string shqip
 string sociallife
 string socialtip1

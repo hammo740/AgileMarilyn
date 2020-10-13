@@ -60,7 +60,7 @@
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
-                android:text="@string/transporttip1" />
+                android:text="@string/shorttransporttip1" />
 
             <Button
                 android:id="@+id/transporttip2"

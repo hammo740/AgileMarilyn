@@ -14,20 +14,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="779d14a6-93ec-4aeb-a349-4e60eb2aca22" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/householdTips.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/householdTips.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/socialTips.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/socialTips.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/worklifeTips.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/worklifeTips.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_choose_lang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_choose_lang.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_help.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_help.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_household_tips.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_household_tips.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_outdoors_tips.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_outdoors_tips.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_social_tips.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_social_tips.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/about.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/about.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/choose_category.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/choose_category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/choose_lang.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/choose_lang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/help.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/help.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/schedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/schedule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_choose_category.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_choose_category.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_transport_tips.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_transport_tips.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_worklife_tips.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_worklife_tips.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/slide_functionality.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/slide_functionality.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,10 +98,10 @@
     <key name="android.template.-1058472040">
       <recent name="com.example.greentipsalpha1" />
     </key>
-    <key name="android.template.-1987027720">
+    <key name="android.template.1557719445">
       <recent name="com.example.greentipsalpha1" />
     </key>
-    <key name="android.template.1557719445">
+    <key name="android.template.-1987027720">
       <recent name="com.example.greentipsalpha1" />
     </key>
     <key name="android.template.-190514228">
