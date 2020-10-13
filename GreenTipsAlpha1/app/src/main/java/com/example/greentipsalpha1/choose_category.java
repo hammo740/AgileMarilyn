@@ -15,4 +15,9 @@ public class choose_category extends AppCompatActivity {
     }
 
     public void gotransport (View v){ startActivity(new Intent(choose_category.this, transportTips.class)); }
+    public void gohousehold (View v){ startActivity(new Intent(choose_category.this, householdTips.class)); }
+    public void gooutdoors (View v){ startActivity(new Intent(choose_category.this, outdoorsTips.class)); }
+    public void gosocial (View v){ startActivity(new Intent(choose_category.this, socialTips.class)); }
+    public void goworklife (View v){ startActivity(new Intent(choose_category.this, worklifeTips.class)); }
+
 }

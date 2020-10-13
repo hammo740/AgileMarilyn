@@ -6,70 +6,88 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="26"
-8-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+8-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+9-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:5:5-29:19
+11-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:5:5-39:19
 12        android:allowBackup="true"
-12-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:6:9-35
+12-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.3.1] C:\Users\EKHOME\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
 16        android:icon="@mipmap/ic_launcher"
-16-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:7:9-43
+16-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:7:9-43
 17        android:label="@string/app_name"
-17-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:8:9-41
+17-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:8:9-41
 18        android:roundIcon="@mipmap/ic_launcher_round"
-18-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:9:9-54
+18-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:9:9-54
 19        android:supportsRtl="true"
-19-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:10:9-35
+19-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:10:9-35
 20        android:testOnly="true"
 21        android:theme="@style/AppTheme" >
-21-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:11:9-40
-22        <activity android:name="com.example.greentipsalpha1.slidetips" />
-22-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:12:9-46
-22-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:12:19-44
-23        <activity
-23-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:13:9-15:55
-24            android:name="com.example.greentipsalpha1.schedule"
-24-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:14:13-37
-25            android:windowSoftInputMode="adjustPan" />
-25-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:15:13-52
-26        <activity android:name="com.example.greentipsalpha1.splashscreen" >
-26-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:16:9-22:20
-26-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:16:19-47
-27            <intent-filter>
-27-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:17:13-21:29
-28                <action android:name="android.intent.action.MAIN" />
-28-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:18:17-69
-28-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:18:25-66
-29
-30                <category android:name="android.intent.category.LAUNCHER" />
-30-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:20:17-77
-30-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:20:27-74
-31            </intent-filter>
-32        </activity>
-33        <activity android:name="com.example.greentipsalpha1.transportTips" />
-33-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:23:9-51
-33-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:23:19-48
-34        <activity android:name="com.example.greentipsalpha1.choose_category" />
-34-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:24:9-53
-34-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:24:19-50
-35        <activity android:name="com.example.greentipsalpha1.help" />
-35-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:25:9-42
-35-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:25:19-39
-36        <activity android:name="com.example.greentipsalpha1.about" />
-36-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:26:9-43
-36-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:26:19-40
-37        <activity android:name="com.example.greentipsalpha1.choose_lang" />
-37-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:27:9-49
-37-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:27:19-46
-38        <activity android:name="com.example.greentipsalpha1.welcome" />
-38-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:28:9-45
-38-->C:\Users\EKHOME\AndroidStudioProjects\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:28:19-42
-39    </application>
-40
-41</manifest>
+21-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:11:9-40
+22        <activity android:name="com.example.greentipsalpha1.slidecreatortransport" />
+22-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:12:9-58
+22-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:12:19-56
+23        <activity android:name="com.example.greentipsalpha1.slidecreatoroutdoors" />
+23-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:13:9-57
+23-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:13:19-55
+24        <activity android:name="com.example.greentipsalpha1.socialTips" />
+24-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:14:9-48
+24-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:14:19-45
+25        <activity android:name="com.example.greentipsalpha1.outdoorsTips" />
+25-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:15:9-50
+25-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:15:19-47
+26        <activity android:name="com.example.greentipsalpha1.worklifeTips" />
+26-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:16:9-50
+26-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:16:19-47
+27        <activity android:name="com.example.greentipsalpha1.householdTips" />
+27-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:17:9-51
+27-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:17:19-48
+28        <activity
+28-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:19:9-21:55
+29            android:name="com.example.greentipsalpha1.schedule"
+29-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:20:13-37
+30            android:windowSoftInputMode="adjustPan" />
+30-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:21:13-52
+31        <activity android:name="com.example.greentipsalpha1.splashscreen" >
+31-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:23:9-28:20
+31-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:23:19-47
+32            <intent-filter>
+32-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:24:13-27:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:25:17-69
+33-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:25:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:26:17-77
+35-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:26:27-74
+36            </intent-filter>
+37        </activity>
+38        <activity
+38-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:30:9-32:59
+39            android:name="com.example.greentipsalpha1.transportTips"
+39-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:31:13-42
+40            android:windowSoftInputMode="adjustNothing" />
+40-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:32:13-56
+41        <activity android:name="com.example.greentipsalpha1.choose_category" />
+41-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:34:9-53
+41-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:34:19-50
+42        <activity android:name="com.example.greentipsalpha1.help" />
+42-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:35:9-42
+42-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:35:19-39
+43        <activity android:name="com.example.greentipsalpha1.about" />
+43-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:36:9-43
+43-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:36:19-40
+44        <activity android:name="com.example.greentipsalpha1.choose_lang" />
+44-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:37:9-49
+44-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:37:19-46
+45        <activity android:name="com.example.greentipsalpha1.welcome" />
+45-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:38:9-45
+45-->C:\Users\EKHOME\Desktop\BackupsGreenTips\Backup 10okt, fixat flerasliders\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:38:19-42
+46    </application>
+47
+48</manifest>
