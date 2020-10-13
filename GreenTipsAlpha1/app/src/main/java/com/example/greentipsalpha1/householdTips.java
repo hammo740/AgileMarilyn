@@ -21,4 +21,8 @@ public class householdTips extends AppCompatActivity {
     public void returnHome(View v){
         startActivity(new Intent(householdTips.this, welcome.class));
     }
+
+    public void goToHouseholdSlide(View v) {
+        startActivity(new Intent(householdTips.this, slidecreatorhousehold.class));
+    }
 }

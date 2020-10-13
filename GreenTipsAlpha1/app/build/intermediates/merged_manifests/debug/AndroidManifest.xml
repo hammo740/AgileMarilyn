@@ -21,6 +21,9 @@
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.greentipsalpha1.slidecreatortransport" />
         <activity android:name="com.example.greentipsalpha1.slidecreatoroutdoors" />
+        <activity android:name="com.example.greentipsalpha1.slidecreatorsocial" />
+        <activity android:name="com.example.greentipsalpha1.slidecreatorworklife" />
+        <activity android:name="com.example.greentipsalpha1.slidecreatorhousehold" />
         <activity android:name="com.example.greentipsalpha1.socialTips" />
         <activity android:name="com.example.greentipsalpha1.outdoorsTips" />
         <activity android:name="com.example.greentipsalpha1.worklifeTips" />

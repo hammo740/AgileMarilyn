@@ -9,8 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
         <activity android:name=".slidecreatortransport"/>
         <activity android:name=".slidecreatoroutdoors"/>
+        <activity android:name=".slidecreatorsocial"/>
+        <activity android:name=".slidecreatorworklife"/>
+        <activity android:name=".slidecreatorhousehold"/>
+
         <activity android:name=".socialTips" />
         <activity android:name=".outdoorsTips" />
         <activity android:name=".worklifeTips" />

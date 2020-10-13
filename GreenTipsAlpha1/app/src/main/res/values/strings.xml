@@ -21,7 +21,8 @@
         \nReceive notifications for reminders and strive for achievements by choosing to have a tip in focus!
     </string>
 
-    <string name="helpcontact"><b>Contact a developer:</b>\n\n
+    <string name="helpcontact"><b>Contact a developer:</b></string>
+    <string name="helpinfo">
         <b>Alexis Tello:</b>\n
         alexis@student.chalmers.se\n\n
         <b>Cezary Januszek:</b>\n

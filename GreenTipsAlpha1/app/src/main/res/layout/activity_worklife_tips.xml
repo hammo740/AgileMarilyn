@@ -62,15 +62,16 @@
 
             <Button
                 android:id="@+id/worklifetip1"
+                android:onClick="goToWorklifeSlide"
                 android:alpha="0.7"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
-                android:onClick="goToTransportSlide"
                 android:text="@string/worklifetip1" />
 
             <Button
                 android:id="@+id/worklifetip2"
+                android:onClick="goToWorklifeSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -80,6 +81,7 @@
 
             <Button
                 android:id="@+id/worklifetip3"
+                android:onClick="goToWorklifeSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -89,6 +91,7 @@
 
             <Button
                 android:id="@+id/worklifetip4"
+                android:onClick="goToWorklifeSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -98,6 +101,7 @@
 
             <Button
                 android:id="@+id/worklifetip5"
+                android:onClick="goToWorklifeSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -107,6 +111,7 @@
 
             <Button
                 android:id="@+id/worklifetip6"
+                android:onClick="goToWorklifeSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -116,6 +121,7 @@
 
             <Button
                 android:id="@+id/worklifetip7"
+                android:onClick="goToWorklifeSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"

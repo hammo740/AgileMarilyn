@@ -21,4 +21,8 @@ public class socialTips extends AppCompatActivity {
     public void returnHome(View v){
         startActivity(new Intent(socialTips.this, welcome.class));
     }
+
+    public void goToSocialSlide(View v) {
+        startActivity(new Intent(socialTips.this, slidecreatorsocial.class));
+    }
 }
