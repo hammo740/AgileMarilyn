@@ -3,11 +3,11 @@
 Who is who?
 
 endritkarpuzi - Endrit Karpuzi;
-CezJan16 - Cezary Januszek;
-alexistello - Alexis Tello;
-smedra - Smedra Touma;
-hammo740 - Mohammed Al-Fatlawi;
-firel-issa - Firel Issa;
+ CezJan16 - Cezary Januszek;
+ alexistello - Alexis Tello;
+ smedra - Smedra Touma;
+ hammo740 - Mohammed Al-Fatlawi;
+ firel-issa - Firel Issa;
 
 
 What is in our repo?
@@ -23,8 +23,9 @@ Documentation folder - contains all the team documentation for this project:
  GreenTipsAlpha1 - project folder of our app "GreenTips"
  
 
+
 Scrum boards: 
-As recommended by our supervisor Hannes in week 6, we changed our apprach and made a separate Scrum board for each sprint:
+ As recommended by our supervisor Hannes in week 6, we changed our apprach and made a separate Scrum board for each sprint:
 
 Scrum board on Trello: https://trello.com/b/nDEd7XCT/scrum-board
 
